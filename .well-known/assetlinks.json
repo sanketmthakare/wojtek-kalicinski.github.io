@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "shareblast.com.shareblast",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["67:70:C2:F7:D5:BA:AD:5F:C2:D2:22:17:FA:5F:49:AC:B8:BF:3C:15:F0:55:8F:1B:0C:82:5D:7B:60:C1:35:3F"]
   }
 }]
